@@ -1,0 +1,4 @@
+name: "example-ec2"
+stage: "dev"
+instance_id: "i-1234abcd1234abcde"
+retention_days: "60"
